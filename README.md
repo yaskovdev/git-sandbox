@@ -1,3 +1,3 @@
 # Git Sandbox
 
-More changes in unstable branch.
+This is a stable production code that just works.
