@@ -9,3 +9,5 @@ This is a new form, refined version.
 This is a maintenance very hot fix.
 
 Abcd.
+
+Feature 2.
